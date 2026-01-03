@@ -1,0 +1,7 @@
+{
+  "name": "DebateMate AI 1.0",
+  "description": "An AI-powered debate adjudication assistant for parliamentary-style debates. Records, transcribes, scores speakers, and determines team rankings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
